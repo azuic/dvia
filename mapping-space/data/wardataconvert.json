@@ -1,0 +1,747 @@
+{
+   "First Kashmir": [
+      {
+         "StateName": "India",
+         "StartYear": 1947,
+         "EndYear": 1949
+      },
+      {
+         "StateName": "Pakistan",
+         "StartYear": 1947,
+         "EndYear": 1949
+      }
+   ],
+   "Korean": [
+      {
+         "StateName": "China",
+         "StartYear": 1950,
+         "EndYear": 1953
+      },
+      {
+         "StateName": "Belgium",
+         "StartYear": 1951,
+         "EndYear": 1953
+      },
+      {
+         "StateName": "Canada",
+         "StartYear": 1950,
+         "EndYear": 1953
+      },
+      {
+         "StateName": "Colombia",
+         "StartYear": 1951,
+         "EndYear": 1953
+      },
+      {
+         "StateName": "United Kingdom",
+         "StartYear": 1950,
+         "EndYear": 1953
+      },
+      {
+         "StateName": "Netherlands",
+         "StartYear": 1951,
+         "EndYear": 1953
+      },
+      {
+         "StateName": "Greece",
+         "StartYear": 1951,
+         "EndYear": 1953
+      },
+      {
+         "StateName": "France",
+         "StartYear": 1951,
+         "EndYear": 1953
+      },
+      {
+         "StateName": "Turkey",
+         "StartYear": 1950,
+         "EndYear": 1953
+      },
+      {
+         "StateName": "Philippines",
+         "StartYear": 1950,
+         "EndYear": 1953
+      },
+      {
+         "StateName": "Thailand",
+         "StartYear": 1951,
+         "EndYear": 1953
+      },
+      {
+         "StateName": "North Korea",
+         "StartYear": 1950,
+         "EndYear": 1953
+      },
+      {
+         "StateName": "Ethiopia",
+         "StartYear": 1951,
+         "EndYear": 1953
+      },
+      {
+         "StateName": "Australia",
+         "StartYear": 1950,
+         "EndYear": 1953
+      },
+      {
+         "StateName": "South Korea",
+         "StartYear": 1950,
+         "EndYear": 1953
+      },
+      {
+         "StateName": "United States",
+         "StartYear": 1950,
+         "EndYear": 1953
+      }
+   ],
+   "Off-shore Islands": [
+      {
+         "StateName": "China",
+         "StartYear": 1954,
+         "EndYear": 1955
+      },
+      {
+         "StateName": "Taiwan",
+         "StartYear": 1954,
+         "EndYear": 1955
+      }
+   ],
+   "Sinai War": [
+      {
+         "StateName": "France",
+         "StartYear": 1956,
+         "EndYear": 1956
+      },
+      {
+         "StateName": "Israel",
+         "StartYear": 1956,
+         "EndYear": 1956
+      },
+      {
+         "StateName": "Egypt",
+         "StartYear": 1956,
+         "EndYear": 1956
+      },
+      {
+         "StateName": "United Kingdom",
+         "StartYear": 1956,
+         "EndYear": 1956
+      }
+   ],
+   "Soviet Invasion of Hungary": [
+      {
+         "StateName": "Hungary",
+         "StartYear": 1956,
+         "EndYear": 1956
+      },
+      {
+         "StateName": "Russia",
+         "StartYear": 1956,
+         "EndYear": 1956
+      }
+   ],
+   "IfniWar": [
+      {
+         "StateName": "France",
+         "StartYear": 1958,
+         "EndYear": 1958
+      },
+      {
+         "StateName": "Spain",
+         "StartYear": 1957,
+         "EndYear": 1958
+      },
+      {
+         "StateName": "Morocco",
+         "StartYear": 1957,
+         "EndYear": 1958
+      }
+   ],
+   "Taiwan Straits": [
+      {
+         "StateName": "China",
+         "StartYear": 1958,
+         "EndYear": 1958
+      },
+      {
+         "StateName": "Taiwan (ROC)",
+         "StartYear": 1958,
+         "EndYear": 1958
+      }
+   ],
+   "Assam": [
+      {
+         "StateName": "India",
+         "StartYear": 1962,
+         "EndYear": 1962
+      },
+      {
+         "StateName": "China",
+         "StartYear": 1962,
+         "EndYear": 1962
+      }
+   ],
+   "Vietnam War, Phase 2": [
+      {
+         "StateName": "United States",
+         "StartYear": 1965,
+         "EndYear": 1973
+      },
+      {
+         "StateName": "Cambodia",
+         "StartYear": 1970,
+         "EndYear": 1975
+      },
+      {
+         "StateName": "South Korea",
+         "StartYear": 1965,
+         "EndYear": 1973
+      },
+      {
+         "StateName": "Philippines",
+         "StartYear": 1966,
+         "EndYear": 1973
+      },
+      {
+         "StateName": "South Vietnam",
+         "StartYear": 1965,
+         "EndYear": 1975
+      },
+      {
+         "StateName": "Vietnam",
+         "StartYear": 1965,
+         "EndYear": 1975
+      },
+      {
+         "StateName": "Thailand",
+         "StartYear": 1967,
+         "EndYear": 1973
+      },
+      {
+         "StateName": "Australia",
+         "StartYear": 1965,
+         "EndYear": 1972
+      }
+   ],
+   "Second Kashmir": [
+      {
+         "StateName": "India",
+         "StartYear": 1965,
+         "EndYear": 1965
+      },
+      {
+         "StateName": "Pakistan",
+         "StartYear": 1965,
+         "EndYear": 1965
+      }
+   ],
+   "Second Laotian, Phase 2": [
+      {
+         "StateName": "United States",
+         "StartYear": 1968,
+         "EndYear": 1973
+      },
+      {
+         "StateName": "Thailand",
+         "StartYear": 1970,
+         "EndYear": 1973
+      },
+      {
+         "StateName": "Laos",
+         "StartYear": 1968,
+         "EndYear": 1973
+      },
+      {
+         "StateName": "Vietnam",
+         "StartYear": 1968,
+         "EndYear": 1973
+      }
+   ],
+   "Communist Coalition": [
+      {
+         "StateName": "Vietnam",
+         "StartYear": 1970,
+         "EndYear": 1971
+      },
+      {
+         "StateName": "United States",
+         "StartYear": 1970,
+         "EndYear": 1971
+      },
+      {
+         "StateName": "Cambodia",
+         "StartYear": 1970,
+         "EndYear": 1971
+      },
+      {
+         "StateName": "South Vietnam",
+         "StartYear": 1970,
+         "EndYear": 1971
+      }
+   ],
+   "Bangladesh": [
+      {
+         "StateName": "India",
+         "StartYear": 1971,
+         "EndYear": 1971
+      },
+      {
+         "StateName": "Pakistan",
+         "StartYear": 1971,
+         "EndYear": 1971
+      }
+   ],
+   "Sino-Vietnamese Punitive": [
+      {
+         "StateName": "China",
+         "StartYear": 1979,
+         "EndYear": 1979
+      },
+      {
+         "StateName": "Vietnam",
+         "StartYear": 1979,
+         "EndYear": 1979
+      }
+   ],
+   "Falkland Islands": [
+      {
+         "StateName": "United Kingdom",
+         "StartYear": 1982,
+         "EndYear": 1982
+      },
+      {
+         "StateName": "Argentina",
+         "StartYear": 1982,
+         "EndYear": 1982
+      }
+   ],
+   "Sino-Vietnamese Border War": [
+      {
+         "StateName": "Vietnam",
+         "StartYear": 1987,
+         "EndYear": 1987
+      },
+      {
+         "StateName": "China",
+         "StartYear": 1987,
+         "EndYear": 1987
+      }
+   ],
+   "Gulf War": [
+      {
+         "StateName": "Kuwait",
+         "StartYear": 1990,
+         "EndYear": 1991
+      },
+      {
+         "StateName": "United States",
+         "StartYear": 1991,
+         "EndYear": 1991
+      },
+      {
+         "StateName": "Canada",
+         "StartYear": 1991,
+         "EndYear": 1991
+      },
+      {
+         "StateName": "United Kingdom",
+         "StartYear": 1991,
+         "EndYear": 1991
+      },
+      {
+         "StateName": "Italy",
+         "StartYear": 1991,
+         "EndYear": 1991
+      },
+      {
+         "StateName": "Morocco",
+         "StartYear": 1991,
+         "EndYear": 1991
+      },
+      {
+         "StateName": "Iraq",
+         "StartYear": 1990,
+         "EndYear": 1991
+      },
+      {
+         "StateName": "Egypt",
+         "StartYear": 1991,
+         "EndYear": 1991
+      },
+      {
+         "StateName": "Oman",
+         "StartYear": 1991,
+         "EndYear": 1991
+      },
+      {
+         "StateName": "France",
+         "StartYear": 1991,
+         "EndYear": 1991
+      },
+      {
+         "StateName": "United Arab Emirates",
+         "StartYear": 1991,
+         "EndYear": 1991
+      },
+      {
+         "StateName": "Qatar",
+         "StartYear": 1991,
+         "EndYear": 1991
+      },
+      {
+         "StateName": "Saudi Arabia",
+         "StartYear": 1991,
+         "EndYear": 1991
+      },
+      {
+         "StateName": "Syria",
+         "StartYear": 1991,
+         "EndYear": 1991
+      }
+   ],
+   "War for Kosovo": [
+      {
+         "StateName": "Turkey",
+         "StartYear": 1999,
+         "EndYear": 1999
+      },
+      {
+         "StateName": "Italy",
+         "StartYear": 1999,
+         "EndYear": 1999
+      },
+      {
+         "StateName": "United Kingdom",
+         "StartYear": 1999,
+         "EndYear": 1999
+      },
+      {
+         "StateName": "United States",
+         "StartYear": 1999,
+         "EndYear": 1999
+      },
+      {
+         "StateName": "Netherlands",
+         "StartYear": 1999,
+         "EndYear": 1999
+      },
+      {
+         "StateName": "France",
+         "StartYear": 1999,
+         "EndYear": 1999
+      },
+      {
+         "StateName": "Yugoslavia",
+         "StartYear": 1999,
+         "EndYear": 1999
+      },
+      {
+         "StateName": "Germany",
+         "StartYear": 1999,
+         "EndYear": 1999
+      }
+   ],
+   "Kargil War": [
+      {
+         "StateName": "India",
+         "StartYear": 1999,
+         "EndYear": 1999
+      },
+      {
+         "StateName": "Pakistan",
+         "StartYear": 1999,
+         "EndYear": 1999
+      }
+   ],
+   "Invasion of Afghanistan": [
+      {
+         "StateName": "Canada",
+         "StartYear": 2001,
+         "EndYear": 2001
+      },
+      {
+         "StateName": "France",
+         "StartYear": 2001,
+         "EndYear": 2001
+      },
+      {
+         "StateName": "United Kingdom",
+         "StartYear": 2001,
+         "EndYear": 2001
+      },
+      {
+         "StateName": "United States",
+         "StartYear": 2001,
+         "EndYear": 2001
+      },
+      {
+         "StateName": "Australia",
+         "StartYear": 2001,
+         "EndYear": 2001
+      },
+      {
+         "StateName": "Afghanistan",
+         "StartYear": 2001,
+         "EndYear": 2001
+      }
+   ],
+   "Invasion of Iraq": [
+      {
+         "StateName": "Australia",
+         "StartYear": 2003,
+         "EndYear": 2003
+      },
+      {
+         "StateName": "United Kingdom",
+         "StartYear": 2003,
+         "EndYear": 2003
+      },
+      {
+         "StateName": "United States",
+         "StartYear": 2003,
+         "EndYear": 2003
+      },
+      {
+         "StateName": "Iraq",
+         "StartYear": 2003,
+         "EndYear": 2003
+      }
+   ],
+   "Indonesian": [
+      {
+         "StateName": "United Kingdom",
+         "StartYear": 1945,
+         "EndYear": 1946
+      },
+      {
+         "StateName": "Netherlands",
+         "StartYear": 1945,
+         "EndYear": 1946
+      },
+      {
+         "StateName": "Indonesia",
+         "StartYear": 1945,
+         "EndYear": 1946
+      }
+   ],
+   "French-Indochina": [
+      {
+         "StateName": "France",
+         "StartYear": 1946,
+         "EndYear": 1954
+      },
+      {
+         "StateName": "Vietminh",
+         "StartYear": 1946,
+         "EndYear": 1954
+      }
+   ],
+   "Third Franco-Madagascan": [
+      {
+         "StateName": "France",
+         "StartYear": 1947,
+         "EndYear": 1948
+      },
+      {
+         "StateName": "Madagascar",
+         "StartYear": 1947,
+         "EndYear": 1948
+      }
+   ],
+   "Malayan Rebellion": [
+      {
+         "StateName": "United Kingdom",
+         "StartYear": 1948,
+         "EndYear": 1957
+      },
+      {
+         "StateName": "Malayan Communists",
+         "StartYear": 1948,
+         "EndYear": 1957
+      }
+   ],
+   "Indo-Hyderabad": [
+      {
+         "StateName": "India",
+         "StartYear": 1948,
+         "EndYear": 1948
+      },
+      {
+         "StateName": "Hyderabad",
+         "StartYear": 1948,
+         "EndYear": 1948
+      }
+   ],
+   "Third Sino-Tibetan": [
+      {
+         "StateName": "China",
+         "StartYear": 1950,
+         "EndYear": 1950
+      },
+      {
+         "StateName": "Tibet",
+         "StartYear": 1950,
+         "EndYear": 1950
+      }
+   ],
+   "Franco-Tunisian": [
+      {
+         "StateName": "France",
+         "StartYear": 1952,
+         "EndYear": 1954
+      },
+      {
+         "StateName": "Tunisia",
+         "StartYear": 1952,
+         "EndYear": 1954
+      }
+   ],
+   "British-Mau Mau": [
+      {
+         "StateName": "United Kingdom",
+         "StartYear": 1952,
+         "EndYear": 1956
+      },
+      {
+         "StateName": "Mau Mau",
+         "StartYear": 1952,
+         "EndYear": 1956
+      }
+   ],
+   "Moroccan Independence": [
+      {
+         "StateName": "France",
+         "StartYear": 1953,
+         "EndYear": 1956
+      },
+      {
+         "StateName": "Morocco",
+         "StartYear": 1953,
+         "EndYear": 1956
+      }
+   ],
+   "Third Franco-Algerian": [
+      {
+         "StateName": "France",
+         "StartYear": 1954,
+         "EndYear": 1962
+      },
+      {
+         "StateName": "Algeria",
+         "StartYear": 1954,
+         "EndYear": 1962
+      }
+   ],
+   "French-Cameroon": [
+      {
+         "StateName": "France",
+         "StartYear": 1957,
+         "EndYear": 1958
+      },
+      {
+         "StateName": "UPC",
+         "StartYear": 1957,
+         "EndYear": 1958
+      }
+   ],
+   "Soviet Quagmire": [
+      {
+         "StateName": "Russia",
+         "StartYear": 1980,
+         "EndYear": 1989
+      },
+      {
+         "StateName": "Muhajadin",
+         "StartYear": 1980,
+         "EndYear": 1989
+      }
+   ],
+   "Afghan Resistance": [
+      {
+         "StateName": "France",
+         "StartYear": 2001,
+         "EndYear": 2018
+      },
+      {
+         "StateName": "Australia",
+         "StartYear": 2001,
+         "EndYear": 2018
+      },
+      {
+         "StateName": "Germany",
+         "StartYear": 2001,
+         "EndYear": 2018
+      },
+      {
+         "StateName": "United Kingdom",
+         "StartYear": 2001,
+         "EndYear": 2018
+      },
+      {
+         "StateName": "Canada",
+         "StartYear": 2001,
+         "EndYear": 2018
+      },
+      {
+         "StateName": "United States",
+         "StartYear": 2001,
+         "EndYear": 2018
+      },
+      {
+         "StateName": "Afghanistan",
+         "StartYear": 2001,
+         "EndYear": 2018
+      }
+   ],
+   "Iraqi Resistance": [
+      {
+         "StateName": "Australia",
+         "StartYear": 2003,
+         "EndYear": 2011
+      },
+      {
+         "StateName": "United States",
+         "StartYear": 2003,
+         "EndYear": 2011
+      },
+      {
+         "StateName": "United Kingdom",
+         "StartYear": 2003,
+         "EndYear": 2011
+      },
+      {
+         "StateName": "Netherlands",
+         "StartYear": 2004,
+         "EndYear": 2005
+      },
+      {
+         "StateName": "Spain",
+         "StartYear": 2004,
+         "EndYear": 2004
+      },
+      {
+         "StateName": "Poland",
+         "StartYear": 2004,
+         "EndYear": 2006
+      },
+      {
+         "StateName": "Italy",
+         "StartYear": 2004,
+         "EndYear": 2011
+      },
+      {
+         "StateName": "Ukraine",
+         "StartYear": 2004,
+         "EndYear": 2005
+      },
+      {
+         "StateName": "Iraq",
+         "StartYear": 2004,
+         "EndYear": 2011
+      },
+      {
+         "StateName": "South Korea",
+         "StartYear": 2004,
+         "EndYear": 2011
+      }
+   ]
+}
