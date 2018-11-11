@@ -1,0 +1,600 @@
+{
+  "statenames": ["India", "Pakistan", "China", "Belgium", "Canada", "Colombia", "United Kingdom", "Netherlands", "Greece", "France", "Turkey", "Philippines", "Thailand", "North Korea", "Ethiopia", "Australia", "South Korea", "United States", "Taiwan", "Israel", "Egypt", "Hungary", "Russia", "Spain", "Morocco", "Taiwan (ROC)", "Cambodia", "South Vietnam", "Vietnam", "Laos", "Argentina", "Kuwait", "Italy", "Iraq", "Oman", "United Arab Emirates", "Qatar", "Saudi Arabia", "Syria", "Yugoslavia", "Germany", "Afghanistan", "Indonesia", "Vietminh", "Madagascar", "Malayan Communists", "Hyderabad", "Tibet", "Tunisia", "Mau Mau", "Algeria", "UPC", "Muhajadin", "Poland", "Ukraine"],
+  "states": {
+    "India": [{
+      "WarName": "First Kashmir",
+      "StartYear": 1947,
+      "EndYear": 1949
+    }, {
+      "WarName": "Assam",
+      "StartYear": 1962,
+      "EndYear": 1962
+    }, {
+      "WarName": "Second Kashmir",
+      "StartYear": 1965,
+      "EndYear": 1965
+    }, {
+      "WarName": "Bangladesh",
+      "StartYear": 1971,
+      "EndYear": 1971
+    }, {
+      "WarName": "Kargil War",
+      "StartYear": 1999,
+      "EndYear": 1999
+    }, {
+      "WarName": "Indo-Hyderabad",
+      "StartYear": 1948,
+      "EndYear": 1948
+    }],
+    "Pakistan": [{
+      "WarName": "First Kashmir",
+      "StartYear": 1947,
+      "EndYear": 1949
+    }, {
+      "WarName": "Second Kashmir",
+      "StartYear": 1965,
+      "EndYear": 1965
+    }, {
+      "WarName": "Bangladesh",
+      "StartYear": 1971,
+      "EndYear": 1971
+    }, {
+      "WarName": "Kargil War",
+      "StartYear": 1999,
+      "EndYear": 1999
+    }],
+    "China": [{
+      "WarName": "Korean",
+      "StartYear": 1950,
+      "EndYear": 1953
+    }, {
+      "WarName": "Off-shore Islands",
+      "StartYear": 1954,
+      "EndYear": 1955
+    }, {
+      "WarName": "Taiwan Straits",
+      "StartYear": 1958,
+      "EndYear": 1958
+    }, {
+      "WarName": "Assam",
+      "StartYear": 1962,
+      "EndYear": 1962
+    }, {
+      "WarName": "Sino-Vietnamese Punitive",
+      "StartYear": 1979,
+      "EndYear": 1979
+    }, {
+      "WarName": "Sino-Vietnamese Border War",
+      "StartYear": 1987,
+      "EndYear": 1987
+    }, {
+      "WarName": "Third Sino-Tibetan",
+      "StartYear": 1950,
+      "EndYear": 1950
+    }],
+    "Belgium": [{
+      "WarName": "Korean",
+      "StartYear": 1951,
+      "EndYear": 1953
+    }],
+    "Canada": [{
+      "WarName": "Korean",
+      "StartYear": 1950,
+      "EndYear": 1953
+    }, {
+      "WarName": "Gulf War",
+      "StartYear": 1991,
+      "EndYear": 1991
+    }, {
+      "WarName": "Invasion of Afghanistan",
+      "StartYear": 2001,
+      "EndYear": 2001
+    }, {
+      "WarName": "Afghan Resistance",
+      "StartYear": 2001,
+      "EndYear": 2018
+    }],
+    "Colombia": [{
+      "WarName": "Korean",
+      "StartYear": 1951,
+      "EndYear": 1953
+    }],
+    "United Kingdom": [{
+      "WarName": "Korean",
+      "StartYear": 1950,
+      "EndYear": 1953
+    }, {
+      "WarName": "Sinai War",
+      "StartYear": 1956,
+      "EndYear": 1956
+    }, {
+      "WarName": "Falkland Islands",
+      "StartYear": 1982,
+      "EndYear": 1982
+    }, {
+      "WarName": "Gulf War",
+      "StartYear": 1991,
+      "EndYear": 1991
+    }, {
+      "WarName": "War for Kosovo",
+      "StartYear": 1999,
+      "EndYear": 1999
+    }, {
+      "WarName": "Invasion of Afghanistan",
+      "StartYear": 2001,
+      "EndYear": 2001
+    }, {
+      "WarName": "Invasion of Iraq",
+      "StartYear": 2003,
+      "EndYear": 2003
+    }, {
+      "WarName": "Indonesian",
+      "StartYear": 1945,
+      "EndYear": 1946
+    }, {
+      "WarName": "Malayan Rebellion",
+      "StartYear": 1948,
+      "EndYear": 1957
+    }, {
+      "WarName": "British-Mau Mau",
+      "StartYear": 1952,
+      "EndYear": 1956
+    }, {
+      "WarName": "Afghan Resistance",
+      "StartYear": 2001,
+      "EndYear": 2018
+    }, {
+      "WarName": "Iraqi Resistance",
+      "StartYear": 2003,
+      "EndYear": 2011
+    }],
+    "Netherlands": [{
+      "WarName": "Korean",
+      "StartYear": 1951,
+      "EndYear": 1953
+    }, {
+      "WarName": "War for Kosovo",
+      "StartYear": 1999,
+      "EndYear": 1999
+    }, {
+      "WarName": "Indonesian",
+      "StartYear": 1945,
+      "EndYear": 1946
+    }, {
+      "WarName": "Iraqi Resistance",
+      "StartYear": 2004,
+      "EndYear": 2005
+    }],
+    "Greece": [{
+      "WarName": "Korean",
+      "StartYear": 1951,
+      "EndYear": 1953
+    }],
+    "France": [{
+      "WarName": "Korean",
+      "StartYear": 1951,
+      "EndYear": 1953
+    }, {
+      "WarName": "Sinai War",
+      "StartYear": 1956,
+      "EndYear": 1956
+    }, {
+      "WarName": "IfniWar",
+      "StartYear": 1958,
+      "EndYear": 1958
+    }, {
+      "WarName": "Gulf War",
+      "StartYear": 1991,
+      "EndYear": 1991
+    }, {
+      "WarName": "War for Kosovo",
+      "StartYear": 1999,
+      "EndYear": 1999
+    }, {
+      "WarName": "Invasion of Afghanistan",
+      "StartYear": 2001,
+      "EndYear": 2001
+    }, {
+      "WarName": "French-Indochina",
+      "StartYear": 1946,
+      "EndYear": 1954
+    }, {
+      "WarName": "Third Franco-Madagascan",
+      "StartYear": 1947,
+      "EndYear": 1948
+    }, {
+      "WarName": "Franco-Tunisian",
+      "StartYear": 1952,
+      "EndYear": 1954
+    }, {
+      "WarName": "Moroccan Independence",
+      "StartYear": 1953,
+      "EndYear": 1956
+    }, {
+      "WarName": "Third Franco-Algerian",
+      "StartYear": 1954,
+      "EndYear": 1962
+    }, {
+      "WarName": "French-Cameroon",
+      "StartYear": 1957,
+      "EndYear": 1958
+    }, {
+      "WarName": "Afghan Resistance",
+      "StartYear": 2001,
+      "EndYear": 2018
+    }],
+    "Turkey": [{
+      "WarName": "Korean",
+      "StartYear": 1950,
+      "EndYear": 1953
+    }, {
+      "WarName": "War for Kosovo",
+      "StartYear": 1999,
+      "EndYear": 1999
+    }],
+    "Philippines": [{
+      "WarName": "Korean",
+      "StartYear": 1950,
+      "EndYear": 1953
+    }, {
+      "WarName": "Vietnam War, Phase 2",
+      "StartYear": 1966,
+      "EndYear": 1973
+    }],
+    "Thailand": [{
+      "WarName": "Korean",
+      "StartYear": 1951,
+      "EndYear": 1953
+    }, {
+      "WarName": "Vietnam War, Phase 2",
+      "StartYear": 1967,
+      "EndYear": 1973
+    }, {
+      "WarName": "Second Laotian, Phase 2",
+      "StartYear": 1970,
+      "EndYear": 1973
+    }],
+    "North Korea": [{
+      "WarName": "Korean",
+      "StartYear": 1950,
+      "EndYear": 1953
+    }],
+    "Ethiopia": [{
+      "WarName": "Korean",
+      "StartYear": 1951,
+      "EndYear": 1953
+    }],
+    "Australia": [{
+      "WarName": "Korean",
+      "StartYear": 1950,
+      "EndYear": 1953
+    }, {
+      "WarName": "Vietnam War, Phase 2",
+      "StartYear": 1965,
+      "EndYear": 1972
+    }, {
+      "WarName": "Invasion of Afghanistan",
+      "StartYear": 2001,
+      "EndYear": 2001
+    }, {
+      "WarName": "Invasion of Iraq",
+      "StartYear": 2003,
+      "EndYear": 2003
+    }, {
+      "WarName": "Afghan Resistance",
+      "StartYear": 2001,
+      "EndYear": 2018
+    }, {
+      "WarName": "Iraqi Resistance",
+      "StartYear": 2003,
+      "EndYear": 2011
+    }],
+    "South Korea": [{
+      "WarName": "Korean",
+      "StartYear": 1950,
+      "EndYear": 1953
+    }, {
+      "WarName": "Vietnam War, Phase 2",
+      "StartYear": 1965,
+      "EndYear": 1973
+    }, {
+      "WarName": "Iraqi Resistance",
+      "StartYear": 2004,
+      "EndYear": 2011
+    }],
+    "United States": [{
+      "WarName": "Korean",
+      "StartYear": 1950,
+      "EndYear": 1953
+    }, {
+      "WarName": "Vietnam War, Phase 2",
+      "StartYear": 1965,
+      "EndYear": 1973
+    }, {
+      "WarName": "Second Laotian, Phase 2",
+      "StartYear": 1968,
+      "EndYear": 1973
+    }, {
+      "WarName": "Communist Coalition",
+      "StartYear": 1970,
+      "EndYear": 1971
+    }, {
+      "WarName": "Gulf War",
+      "StartYear": 1991,
+      "EndYear": 1991
+    }, {
+      "WarName": "War for Kosovo",
+      "StartYear": 1999,
+      "EndYear": 1999
+    }, {
+      "WarName": "Invasion of Afghanistan",
+      "StartYear": 2001,
+      "EndYear": 2001
+    }, {
+      "WarName": "Invasion of Iraq",
+      "StartYear": 2003,
+      "EndYear": 2003
+    }, {
+      "WarName": "Afghan Resistance",
+      "StartYear": 2001,
+      "EndYear": 2018
+    }, {
+      "WarName": "Iraqi Resistance",
+      "StartYear": 2003,
+      "EndYear": 2011
+    }],
+    "Taiwan": [{
+      "WarName": "Off-shore Islands",
+      "StartYear": 1954,
+      "EndYear": 1955
+    }],
+    "Israel": [{
+      "WarName": "Sinai War",
+      "StartYear": 1956,
+      "EndYear": 1956
+    }],
+    "Egypt": [{
+      "WarName": "Sinai War",
+      "StartYear": 1956,
+      "EndYear": 1956
+    }, {
+      "WarName": "Gulf War",
+      "StartYear": 1991,
+      "EndYear": 1991
+    }],
+    "Hungary": [{
+      "WarName": "Soviet Invasion of Hungary",
+      "StartYear": 1956,
+      "EndYear": 1956
+    }],
+    "Russia": [{
+      "WarName": "Soviet Invasion of Hungary",
+      "StartYear": 1956,
+      "EndYear": 1956
+    }, {
+      "WarName": "Soviet Quagmire",
+      "StartYear": 1980,
+      "EndYear": 1989
+    }],
+    "Spain": [{
+      "WarName": "IfniWar",
+      "StartYear": 1957,
+      "EndYear": 1958
+    }, {
+      "WarName": "Iraqi Resistance",
+      "StartYear": 2004,
+      "EndYear": 2004
+    }],
+    "Morocco": [{
+      "WarName": "IfniWar",
+      "StartYear": 1957,
+      "EndYear": 1958
+    }, {
+      "WarName": "Gulf War",
+      "StartYear": 1991,
+      "EndYear": 1991
+    }, {
+      "WarName": "Moroccan Independence",
+      "StartYear": 1953,
+      "EndYear": 1956
+    }],
+    "Taiwan (ROC)": [{
+      "WarName": "Taiwan Straits",
+      "StartYear": 1958,
+      "EndYear": 1958
+    }],
+    "Cambodia": [{
+      "WarName": "Vietnam War, Phase 2",
+      "StartYear": 1970,
+      "EndYear": 1975
+    }, {
+      "WarName": "Communist Coalition",
+      "StartYear": 1970,
+      "EndYear": 1971
+    }],
+    "South Vietnam": [{
+      "WarName": "Vietnam War, Phase 2",
+      "StartYear": 1965,
+      "EndYear": 1975
+    }, {
+      "WarName": "Communist Coalition",
+      "StartYear": 1970,
+      "EndYear": 1971
+    }],
+    "Vietnam": [{
+      "WarName": "Vietnam War, Phase 2",
+      "StartYear": 1965,
+      "EndYear": 1975
+    }, {
+      "WarName": "Second Laotian, Phase 2",
+      "StartYear": 1968,
+      "EndYear": 1973
+    }, {
+      "WarName": "Communist Coalition",
+      "StartYear": 1970,
+      "EndYear": 1971
+    }, {
+      "WarName": "Sino-Vietnamese Punitive",
+      "StartYear": 1979,
+      "EndYear": 1979
+    }, {
+      "WarName": "Sino-Vietnamese Border War",
+      "StartYear": 1987,
+      "EndYear": 1987
+    }],
+    "Laos": [{
+      "WarName": "Second Laotian, Phase 2",
+      "StartYear": 1968,
+      "EndYear": 1973
+    }],
+    "Argentina": [{
+      "WarName": "Falkland Islands",
+      "StartYear": 1982,
+      "EndYear": 1982
+    }],
+    "Kuwait": [{
+      "WarName": "Gulf War",
+      "StartYear": 1990,
+      "EndYear": 1991
+    }],
+    "Italy": [{
+      "WarName": "Gulf War",
+      "StartYear": 1991,
+      "EndYear": 1991
+    }, {
+      "WarName": "War for Kosovo",
+      "StartYear": 1999,
+      "EndYear": 1999
+    }, {
+      "WarName": "Iraqi Resistance",
+      "StartYear": 2004,
+      "EndYear": 2011
+    }],
+    "Iraq": [{
+      "WarName": "Gulf War",
+      "StartYear": 1990,
+      "EndYear": 1991
+    }, {
+      "WarName": "Invasion of Iraq",
+      "StartYear": 2003,
+      "EndYear": 2003
+    }, {
+      "WarName": "Iraqi Resistance",
+      "StartYear": 2004,
+      "EndYear": 2011
+    }],
+    "Oman": [{
+      "WarName": "Gulf War",
+      "StartYear": 1991,
+      "EndYear": 1991
+    }],
+    "United Arab Emirates": [{
+      "WarName": "Gulf War",
+      "StartYear": 1991,
+      "EndYear": 1991
+    }],
+    "Qatar": [{
+      "WarName": "Gulf War",
+      "StartYear": 1991,
+      "EndYear": 1991
+    }],
+    "Saudi Arabia": [{
+      "WarName": "Gulf War",
+      "StartYear": 1991,
+      "EndYear": 1991
+    }],
+    "Syria": [{
+      "WarName": "Gulf War",
+      "StartYear": 1991,
+      "EndYear": 1991
+    }],
+    "Yugoslavia": [{
+      "WarName": "War for Kosovo",
+      "StartYear": 1999,
+      "EndYear": 1999
+    }],
+    "Germany": [{
+      "WarName": "War for Kosovo",
+      "StartYear": 1999,
+      "EndYear": 1999
+    }, {
+      "WarName": "Afghan Resistance",
+      "StartYear": 2001,
+      "EndYear": 2018
+    }],
+    "Afghanistan": [{
+      "WarName": "Invasion of Afghanistan",
+      "StartYear": 2001,
+      "EndYear": 2001
+    }, {
+      "WarName": "Afghan Resistance",
+      "StartYear": 2001,
+      "EndYear": 2018
+    }],
+    "Indonesia": [{
+      "WarName": "Indonesian",
+      "StartYear": 1945,
+      "EndYear": 1946
+    }],
+    "Vietminh": [{
+      "WarName": "French-Indochina",
+      "StartYear": 1946,
+      "EndYear": 1954
+    }],
+    "Madagascar": [{
+      "WarName": "Third Franco-Madagascan",
+      "StartYear": 1947,
+      "EndYear": 1948
+    }],
+    "Malayan Communists": [{
+      "WarName": "Malayan Rebellion",
+      "StartYear": 1948,
+      "EndYear": 1957
+    }],
+    "Hyderabad": [{
+      "WarName": "Indo-Hyderabad",
+      "StartYear": 1948,
+      "EndYear": 1948
+    }],
+    "Tibet": [{
+      "WarName": "Third Sino-Tibetan",
+      "StartYear": 1950,
+      "EndYear": 1950
+    }],
+    "Tunisia": [{
+      "WarName": "Franco-Tunisian",
+      "StartYear": 1952,
+      "EndYear": 1954
+    }],
+    "Mau Mau": [{
+      "WarName": "British-Mau Mau",
+      "StartYear": 1952,
+      "EndYear": 1956
+    }],
+    "Algeria": [{
+      "WarName": "Third Franco-Algerian",
+      "StartYear": 1954,
+      "EndYear": 1962
+    }],
+    "UPC": [{
+      "WarName": "French-Cameroon",
+      "StartYear": 1957,
+      "EndYear": 1958
+    }],
+    "Muhajadin": [{
+      "WarName": "Soviet Quagmire",
+      "StartYear": 1980,
+      "EndYear": 1989
+    }],
+    "Poland": [{
+      "WarName": "Iraqi Resistance",
+      "StartYear": 2004,
+      "EndYear": 2006
+    }],
+    "Ukraine": [{
+      "WarName": "Iraqi Resistance",
+      "StartYear": 2004,
+      "EndYear": 2005
+    }]
+  }
+}
