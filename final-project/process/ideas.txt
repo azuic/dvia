@@ -1,0 +1,19 @@
+1. Network of NYC commuting patterns by taxi
+
+2. Popular destinations of different time across the day
+
+3. Genetic relationships in different states
+
+4. City portrait by craigslist apartment interior photos
+
+5. Webcam - weather
+
+6. Best taxi hailing places in NYC
+
+7. Some relationships between trends under different Pinterest categories
+
+8. Weather - taxi trips
+
+9. Same object photo comparison: craigslist vs pinterest
+
+10. realtime city profile by weather+craigslist hot words+pinterest hot pics
