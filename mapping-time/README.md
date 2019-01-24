@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #### Mapping Time Project Brainstorming
 
 ##### Some ideas
@@ -13,7 +12,7 @@
 
 ##### Back to p5.js
 A revolving clock
-=======
+
 #### Mapping Time
 
 *A revolving clock*
