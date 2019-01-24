@@ -1,6 +1,6 @@
-## Data Visualization & Info Aesthetics
+### Data Visualization & Info Aesthetics
 
-* P5 based projects
+__** P5 based projects **__
 
 **Project 1** Mapping Time  
 - Revolving clock

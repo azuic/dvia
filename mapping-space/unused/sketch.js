@@ -61,10 +61,10 @@ function setup() {
     // first, call our map initialization function (look in the html's style tag to set its dimensions)
     canvas = createCanvas(windowWidth,200);
     canvas.parent('diagram-canvas');
-    background(0.40);
+    background(0,80);
     // next, draw our p5 diagram that complements it
     graphics = createGraphics(windowWidth,200,canvas);
-    graphics.background(0,40);
+    graphics.background(0,30);
 
     setupMap();
 
@@ -104,7 +104,6 @@ function setupMap(){
         // minZoom:1.5,
         // maxZoom: 18,
         id: 'mapbox.dark',
-        // style:'mapbox://styles/zuic/cjpwox6lk11992rkbliuik75w',
         accessToken: 'pk.eyJ1IjoiZHZpYTIwMTciLCJhIjoiY2o5NmsxNXIxMDU3eTMxbnN4bW03M3RsZyJ9.VN5cq0zpf-oep1n1OjRSEA'
     }).addTo(mymap);
 
@@ -151,17 +150,17 @@ function draw(){
   var maxdep = getColumnMax("depths",week);
   var maxmag = getColumnMax("magnitudes",week);
 
-  fill('#fcfcfc');
+  fill('#DDD23B');
   noStroke();
   for(var i=0; i<wkdepths.length; i++){
     ellipse(200+magnitudes[i]*200,50+depths[i]*5,2,2);
   }
-  stroke('#fcfcfc');
+  stroke('#DDD23B');
   strokeWeight(0.7);
   textAlign(RIGHT);
   textSize(10);
-  text("depth",190,170);
-  text("magnitude",windowWidth-60,45);
+  text("depth",50,180);
+  text("magnitude",windowWidth-40,30);
 
   textSize(14);
   text("0.0",200,45);
@@ -170,8 +169,8 @@ function draw(){
   strokeWeight(1.5);
   line(155,25,60,25);
   // unit legend
-  strokeWeight(0.2);
-  line(200,50,windowWidth-100,50); // magnitude
+  strokeWeight(1.2);
+  line(200,50,windowWidth-90,50); // magnitude
   line(200,50,200,180); // depth
 }
 

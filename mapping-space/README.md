@@ -1,22 +1,19 @@
-**Concept:** with extra data of inter state war involvement
-  * Reference: Zeev Maoz, Paul L. Johnson, Jasper Kaplan, Fiona Ogunkoya, and Aaron Shreve 2019. The Dyadic Militarized Interstate Disputes (MIDs) Dataset Version 3.0: Logic, Characteristics, and Comparisons to Alternative Datasets, Journal of Conflict Resolution (forthcoming).
-  * Sequential palette: darker color means larger number
-  * Each circle represents a year
-  * Above time axis:
-    * Upper semicircle: atmospheric
-    * Lower semicircle: underground  
-    **v3**  
-    * Black dot: involvement in a interstate war
-    * Line connecting dots: length/period of the war  
-    **v2**  
-    * small circles: involvement in a interstate war
-    * Line connecting dots: length/period of the war
-    * Line weight: number of stated involved in the war  
-    **v3**  
-    * Width of arcs: length/period of the war
-    * Arc line weight: number of stated involved in the war  
-    **final**  
-    * Empty circle (uncolored) to represent 0 test
-    * Only count total tests (no division of above/underground)
-    * Variance in y-coords (lines at different vertical levels) inside a circle to represent different wars involving the same state
-    * Added non nuclear power states' war involvement at the bottom
+## Process
+
+Description of the contents of this folder and a prose description of your ideas for how to represent
+the earthquake data geospatially and diagrammatically.  
+
+Sketch 1: Perspective map with 3-D histogram indicating the depth, different sequential color palette for magnitude for all month data (blue) and significant data (red).  
+
+Sketch 2: 3 layers indicating three levels of depth, and on each layer, magnitude will be represented by the size of circles.  
+
+Sketch 3: monthly data in blue and significant data as red heat map overlay. At bottom, a hotline of depth will be shown on the choosing cluster/avg. of current week/today.
+
+**Notes**  
+* Check the scale on wikipedia
+* Use qualitative colors to indicate the effect of the magnitude instead of the numeric value
+
+## Final
+* Checkbox to check if to show data from the current month
+* Slider to show the data from a specific day in the current month period
+* Bottom overlay of scatter plot of magnitude-depth of the current week's data
