@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 function setup() {
   // set the width & height of the sketch
   createCanvas(400, 130)
@@ -27,8 +26,6 @@ function draw() {
   text(now.text.time, 30, 100)
 
 }
-=======
-
 
 var NUMSINES = 6; // how many of these things can we do at once?
 var sines = new Array(NUMSINES); // an array to hold all the current angles
@@ -95,4 +92,3 @@ function draw() {
   pop(); // pop down final transformation
 
 }
->>>>>>> 07e3d27472d8c3adbca08059e02a9e179e3f2022
