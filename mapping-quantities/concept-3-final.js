@@ -16,9 +16,7 @@ function setup(){
   // pick one of the three data files to work with and call it 'data'
   var data = total;
 
-  // create a divergent palette where we'll use negative values for underground tests
-  // and positive values for atmospheric (the -60 .. 80 range came from eyeballing the data)
-  // var palette = Brewer.divergent('RdBu', Infinity, -60, 0, 80)
+  // create a sequential palette, from 0-178 to represent the tests by each state
   var palette = Brewer.sequential('Oranges', Infinity, 0, 178);
   // set up typography
   textFont("Chakra Petch");
@@ -62,7 +60,7 @@ function setup(){
 
     // step through all the countries' totals for the year, row by row
     for (var country in data.tests){
-      // draw the atmospheric tests as an upper semicircle using the palette to set the color by value
+      // draw the nuclear tests as a circle using the palette to set the color by value
       var value = data.tests[country][i];
       var color = palette.colorForValue(value);
       if (value != 0){
@@ -164,33 +162,7 @@ function setup(){
         N=10;
         nuclear=false;
     }
-    // // for the 8 nuclear power states
-    // if (nuclear){
-    //   // y-coord for the center
-    //   var coordY = 500-rowHeight*N;
-    // } else {
-    //   var startX2 = 250+(start-1945)*colWidth;
-    //   var endX2 = 250+(end-1945)*colWidth;
-    //   var coordY2 = 620+k*20;
-    //   fill('#62592C');
-    //   // start of the war
-    //   noStroke();
-    //   ellipse(startX2, coordY2, 3, 3);
-    //   textStyle(NORMAL);
-    //   textSize(8);
-    //   textAlign(RIGHT);
-    //   text(state, startX2,coordY2-8);
-    //   // end of the war
-    //   noStroke();
-    //   ellipse(endX2, coordY2, 3, 3);
-    //   textAlign(LEFT);
-    //   text(statedata[state].WarName, endX2,coordY2-8);
-    //   // length of the war
-    //   strokeWeight(1.5);
-    //   stroke('#62592C');
-    //   line(250+(start-1945)*colWidth, coordY2, 250+(end-1945)*colWidth, coordY2);
-    //   k++;
-    // }
+
 
     var nWars = statedata[state].length;
     var gap = 50/(nWars+1);
