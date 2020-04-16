@@ -9,6 +9,7 @@ function preload(){
 }
 
 function setup(){
+  pixelDensity(2.0);
   createCanvas(4750, 2250);
   background('#e0e0d9');
 
